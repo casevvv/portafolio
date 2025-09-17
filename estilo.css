@@ -45,6 +45,13 @@ li{
     border-radius: 10px;
 }
 
+.section-contact{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
 .contenedor-principal-img-descripcion {
     display: flex;
     flex-direction: row;
