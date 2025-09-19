@@ -45,7 +45,7 @@ li{
     border-radius: 10px;
 }
 
-.section-contact{
+.section-contacto{
     display: flex;
     flex-direction: column;
     align-content: flex-start;
@@ -59,6 +59,7 @@ li{
     border-radius: 10px;
     background-color: #2f2d2d;
     padding: 10px;
+    flex-wrap: wrap;
 }
 .contenedor-proyectos{
     display: flex;
